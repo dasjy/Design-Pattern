@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="02aaf9ed-8206-4fc0-9057-74b45d0ef2f7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BuilderDesignPattern/BiCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Decorator/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Decorator/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Decorator/RedShapeDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Decorator/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Decorator/ShapeDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FactoryPattern/BaseDriverCapabilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FactoryPattern/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FactoryPattern/Broswer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FactoryPattern/MyChromeDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FactoryPattern/MyChromeDriverWithCapabilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FactoryPattern/MyFirefoxDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FactoryPattern/MyFirefoxWithCapabilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SingletonPattern/CandyMaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SingletonPattern/SingletonPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StaetegyPattern/BasicCameraApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StaetegyPattern/CameraPlusApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StaetegyPattern/PhoneCameraApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StaetegyPattern/Share.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StaetegyPattern/ShareViaDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StaetegyPattern/ShareViaEmail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StaetegyPattern/ShareViaText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BuilderPatternHT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DecoratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FactoryPatternHT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SingletonPatternHT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StartegyPatternHT.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DAZhRoM6UYiMCPe4RoJwo8wiYc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="SingletonPattern" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StartegyPatternHT">
+    <configuration name="BuilderPatternHT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BuilderPatternHT" />
+      <module name="DesignPattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DecoratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DecoratorTest" />
+      <module name="DesignPattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FactoryPatternHT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FactoryPatternHT" />
+      <module name="DesignPattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingletonPatternHT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SingletonPatternHT" />
+      <module name="DesignPattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartegyPatternHT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StartegyPatternHT" />
+      <module name="DesignPattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StartegyPatternHT" />
+        <item itemvalue="Application.BuilderPatternHT" />
+        <item itemvalue="Application.FactoryPatternHT" />
+        <item itemvalue="Application.SingletonPatternHT" />
+        <item itemvalue="Application.DecoratorTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02aaf9ed-8206-4fc0-9057-74b45d0ef2f7" name="Changes" comment="" />
+      <created>1660143968268</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660143968268</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
